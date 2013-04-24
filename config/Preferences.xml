@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AVT Format="AVT Image Annotation Tool">
+  <version>v0.1</version>
+  <comment>For Internal Use Only!</comment>
+  <Preferences>
+    <WindowLevel>
+      <Preset>
+        <Name>Liver</Name>
+        <WindowWidth>80</WindowWidth>
+        <WindowCenter>60</WindowCenter>
+      </Preset>
+      <Preset>
+        <Name>Lung</Name>
+        <WindowWidth>1500</WindowWidth>
+        <WindowCenter>-600</WindowCenter>
+      </Preset>
+      <Preset>
+        <Name>Bone</Name>
+        <WindowWidth>2000</WindowWidth>
+        <WindowCenter>400</WindowCenter>
+      </Preset>
+    </WindowLevel>
+    <ContourDisplayStyle>
+      <LineWidth>1</LineWidth>
+      <LinePattern>0xffff</LinePattern>
+    </ContourDisplayStyle>
+    <EditDisplayStyle>
+      <LineColor>0 1 0</LineColor>
+      <LineWidth>1</LineWidth>
+      <LinePattern>0xffff</LinePattern>
+    </EditDisplayStyle>
+    <RECISTDisplayStyle>
+      <LineColor>0.9 0.9 0.2</LineColor>
+      <LineWidth>1.5</LineWidth>
+      <LinePattern>0xffff</LinePattern>
+    </RECISTDisplayStyle>
+    <WHODisplayStyle>
+      <LineColor>1.0 0.5 0.2</LineColor>
+      <LineWidth>1.5</LineWidth>
+      <LinePattern>0xffff</LinePattern>
+    </WHODisplayStyle>
+    <TemporaryBuffer>
+      <Path>C:\temp\IA</Path>
+    </TemporaryBuffer>
+  </Preferences>
+</AVT>
