@@ -1,4 +1,4 @@
-Image Annotation application, part of the Algorithm Validation Toolkit
+Vasari application, part of the Algorithm Validation Toolkit
 Copyright (c) 2010, Siemens Corporate Research a Division of Siemens Corporation
 
 This project is distributed under the Apache 2.0 License.

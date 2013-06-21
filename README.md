@@ -6,15 +6,15 @@ of tools that facilitate the testing and statistical comparison of image process
 algorithms.  It is built upon the
 [eXtensible Imaging Platform&trade; (XIP&trade;)](http://www.OpenXIP.org) development
 framework, and can create and consume objects based
-on [AIM (Annotation and Image Markup] (https://github.com/NCIP/annotation-and-image-markup)
+on [AIM (Annotation and Image Markup)] (https://github.com/NCIP/annotation-and-image-markup)
 models.  
 
-The Algorithm Execution&trade; (IA&trade;) component of AVT&trade; is an XIP-based 
+The Image Annotation&trade; (IA&trade;) component of AVT&trade; is an XIP-based 
 [DICOM Hosted Application](http://medical.nema.org/Dicom/2011/11_19pu.pdf)
 for creating AIM objects associated with DICOM studies.  IA can be run using a
 [DICOM Hosting System](http://medical.nema.org/Dicom/2011/11_19pu.pdf),
 such as the [XIP Host&trade;](https://github.com/OpenXIP/xip-host).
-AE&trade; is implemented in Java with Swing, and utilizes scene graphs
+IA&trade; is implemented in Java with Swing, and utilizes scene graphs
 created with the [XIP Libraries&trade;](https://github.com/OpenXIP/xip-libraries).
 
 The ultimate goals of the project include:

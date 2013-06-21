@@ -5,6 +5,6 @@
 	<classpathentry kind="lib" path="lib/pixelmed.jar"/>
 	<classpathentry kind="lib" path="lib/jdom.jar"/>
 	<classpathentry kind="lib" path="lib/XIPApp.jar"/>
-	<classpathentry kind="lib" path="/ad-core/build/lib/ad-core.jar"/>
+	<classpathentry kind="lib" path="D:/workspaces/xip-git/xip-host/lib/AVT/ad-api-0.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
